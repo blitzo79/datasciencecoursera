@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-coursera repo
+coursera coursework repo
